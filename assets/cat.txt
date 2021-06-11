@@ -1,0 +1,1 @@
+  // $db = new database_daya("beru2685_monitoring", "12345678", "beru2685_alldie", "localhost");
